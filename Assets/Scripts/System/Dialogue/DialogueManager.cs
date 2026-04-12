@@ -9,7 +9,7 @@ using UnityEngine.UI;
 /// </summary>
 public class DialogueManager : MonoBehaviour
 {
-
+    //git‚ÌƒeƒXƒg‚Û‚æ
     [SerializeField] GameObject DialoguePanel;
     [SerializeField] Image faceImage;
     [SerializeField] Text nameText;
