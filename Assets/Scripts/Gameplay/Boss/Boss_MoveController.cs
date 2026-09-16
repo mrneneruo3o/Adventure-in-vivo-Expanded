@@ -20,6 +20,7 @@ public class Boss_MoveController : MonoBehaviour
     {
         if (other.CompareTag("Bullet"))
         {
+            Debug.Log("boss‚É“–‚½‚Á‚½");
             //Boss_HP‚É˜AŒg
             bossDamage?.Invoke();
         }
